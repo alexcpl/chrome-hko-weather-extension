@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "HKO Weather Extension",
+    "version": "1.0",
+    "description": "Displays current weather conditions from the HKO API",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icons/icon.png"
+    }
+}
